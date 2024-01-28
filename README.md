@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://img.freepik.com/fotos-premium/fundo-de-fluxo-de-dados-duplo-geometrico-futurista-com-pontos-e-linhas-de-conexao-fundo-digital-abstrato-complexo-de-big-data-com-conexoes-renderizacao-em-3d_634443-891.jpg" align="center" style="width: 100%" />
+<img src="https://www.nyse.com/publicdocs/images/Secondary-Hero-Fixed-Income-Data-Technology-06-1920x250.jpg" align="center" style="width: 100%" />
 </div>  
   
 
