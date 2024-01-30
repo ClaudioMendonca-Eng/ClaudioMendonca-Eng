@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">Sou Claudio Mendonça, desenvolvedor freelance full-stack em tempo integral 👨‍💻 trabalhando remotamente desde 2020 🚀</div>  
+### <div align="center">I'm Claudio Mendonça, full-time freelance full-stack developer 👨‍💻 working remotely since 2020 🚀</div>  
   
 
 - 🔭 I am currently working on a freelance website  
