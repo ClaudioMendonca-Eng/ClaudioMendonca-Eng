@@ -115,33 +115,12 @@
 <br/>  
 
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ClaudioMendonca-Eng&show_icons=true&count_private=true&hide_border=true" align="center" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClaudioMendonca-Eng&hide_border=true&layout=compact" align="left"/></div>  
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=ClaudioMendonca-Eng&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
-
-<div align="center">
-            <a href="https://www.paypal.com/donate/?business=YYQV3JNX2PCFS&no_recurring=0&item_name=Obrigado+pelo+cafezinho%21%21+%2F+Thanks+for+the+coffee%21%21&currency_code=USD" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square&logo=paypal" 
-                    align="center"
-                />
-            </a>
-            <a href="https://www.buymeacoffee.com/claudiomendonca" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
-                    align="center"
-                />
-            </a></div>
-<br />
+## Github Stats
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ClaudioMendonca-Eng&theme=github_dark) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ClaudioMendonca-Eng&theme=github_dark&utcOffset=8) ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ClaudioMendonca-Eng&theme=github_dark) ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ClaudioMendonca-Eng&theme=github_dark) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ClaudioMendonca-Eng&theme=github_dark) |
+|:---:|
+| <img src="https://komarev.com/ghpvc/?username=ClaudioMendonca-Eng&&style=flat-square" align="center" /> <a href="https://www.paypal.com/donate/?business=YYQV3JNX2PCFS&no_recurring=0&item_name=Obrigado+pelo+cafezinho%21%21+%2F+Thanks+for+the+coffee%21%21&currency_code=USD" target="_blank" style="display: inline-block;"> <img src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square&logo=paypal" align="center"/></a> <a href="https://www.buymeacoffee.com/claudiomendonca" target="_blank" style="display: inline-block;"> <img src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" align="center"/></a>|
 
 <!--
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+https://github-profile-summary-cards.vercel.app/demo.html
 -->
