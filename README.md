@@ -45,46 +45,47 @@
 </td><td valign="top" width="33%">
 
 ### Backend  
-<div align="center">  
-<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a> 
-<a href="https://graphql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/graphql.png" alt="GraphQL" height="50" /></a>   
-<a href="https://laravel.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/laravel-plain-wordmark.svg" alt="Laravel" height="50" /></a>  
-<a href="https://symfony.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/symfony_black_03.svg" alt="Symfony" height="50" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
-<a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>  
-<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
-<a href="https://redis.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="50" /></a> 
-<a href="https://flask.palletsprojects.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://docs.spring.io/spring-framework/docs/3.0.x/reference/expressions.html#:~:text=The%20Spring%20Expression%20Language%20(SpEL,and%20basic%20string%20templating%20functionality." target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring" height="50" /></a>  
-<a href="https://www.oracle.com/in/index.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/oracle-original.svg" alt="Oracle" height="50" /></a>  
-<a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
-<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
-<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a>  
-<a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="50" /></a>  
-<a href="https://www.r-project.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/r.svg" alt="R" height="50" /></a>  
-<a href="https://www.raspberrypi.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/raspberrypi.png" alt="Raspberry Pi" height="50" /></a>  
-<a href="https://www.arduino.cc/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino" height="50" /></a>  
+<div align="center">
+<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://site-assets.fontawesome.com/releases/v6.5.2/svgs/brands/java.svg" alt="Java" height="50" /></a>
+<a href="https://www.oracle.com/in/index.html" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/oracle/000/fff" alt="Oracle" height="50" /></a>  
+<a href="https://spring.io/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/spring/000/fff" alt="Spring" height="50" /></a>    
+<a href="https://spring.io/projects/spring-boot" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/springboot/000/fff" alt="Spring Boot" height="50" /></a> 
+<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/express/000/fff" alt="Express.js" height="50" /></a>    
+<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/nodedotjs/000/fff" alt="Node.js" height="50" /></a>   
+<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/python/000/fff" alt="Python" height="50" /></a> 
+<a href="https://graphql.org/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/graphql/000/fff" alt="GraphQL" height="50" /></a>   
+<a href="https://laravel.com/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/laravel/000/fff" alt="Laravel" height="50" /></a>  
+<a href="https://symfony.com/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/symfony/000/fff" alt="Symfony" height="50" /></a>  
+<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/mysql/000/fff" alt="MySQL" height="50" /></a>  
+<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/mongodb/000/fff" alt="MongoDB" height="50" /></a>  
+<a href="https://www.php.net/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/php/000/fff" alt="PHP" height="50" /></a>  
+<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/postgresql/000/fff" alt="PostgreSQL" height="50" /></a>  
+<a href="https://redis.io/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/redis/000/fff" alt="Redis" height="50" /></a> 
+<a href="https://flask.palletsprojects.com/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/flask/000/fff" alt="Flask" height="50" /></a>
+<a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/nginx/000/fff" alt="Nginx" height="50" /></a>  
+<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/linux/000/fff" alt="Linux" height="50" /></a>  
+<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/c/000/fff" alt="C" height="50" /></a>  
+<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/cplusplus/000/fff" alt="C++" height="50" /></a>  
+<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/csharp/000/fff" alt="C#" height="50" /></a>  
+<a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/powershell/000/fff" alt="PowerShell" height="50" /></a>  
+<a href="https://www.r-project.org/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/r/000/fff" alt="R" height="50" /></a>  
+<a href="https://www.raspberrypi.org/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/raspberrypi/000/fff" alt="Raspberry Pi" height="50" /></a>  
+<a href="https://www.arduino.cc/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/arduino/000/fff" alt="Arduino" height="50" /></a> 
 </div>
 
 </td><td valign="top" width="33%">
 
 ### DevOps  
 <div align="center">  
-<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
-<a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" /></a>  
-<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
-<a href="https://www.tableau.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tableau.svg" alt="Tableau" height="50" /></a>  
-<a href="https://www.apachefriends.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="50" /></a>  
-<a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /></a>  
-<a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" /></a>  
+<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/docker/000/fff" alt="Docker" height="50" /></a>  
+<a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/kubernetes/000/fff" alt="Kubernetes" height="50" /></a>  
+<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/amazonaws/000/fff" alt="AWS" height="50" /></a>  
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/git/000/fff" alt="Git" height="50" /></a>  
+<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/gnubash/000/fff" alt="Bash" height="50" /></a>  
+<a href="https://www.tableau.com/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/tableau/000/fff" alt="Tableau" height="50" /></a>  
+<a href="https://www.apachefriends.org/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/xampp/000/fff" alt="XAMPP" height="50" /></a>  
+<a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/firebase/000/fff" alt="Firebase" height="50" /></a>  
+<a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/gitlab/000/fff" alt="GitLab" height="50" /></a>  
 </div>
 
 </td></tr></table>   
