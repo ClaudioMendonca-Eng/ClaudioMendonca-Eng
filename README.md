@@ -29,18 +29,17 @@
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/html5/000/fff" alt="HTML5"/></a>
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/css3/000/fff" alt="CSS3"/></a> 
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/javascript/000/fff" alt="JavaScript"/></a>
-<a href="https://www.typescriptlang.org" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/typescript/000/fff" alt="TypeScript"/></a> 
-<a href="https://laravel.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/laravel-plain-wordmark.svg" alt="Laravel" height="50" /></a>  
-<a href="https://vuejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" /></a>  
-<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
-<a href="https://www.adobe.com/in/products/xd.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobexd.png" alt="Adobe XD" height="50" /></a>  
-<a href="https://www.adobe.com/in/products/indesign.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobeindesign.svg" alt="Adobe InDesign" height="50" /></a>  
-<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="50" /></a>  
-<a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" /></a>  
-<a href="https://mui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="50" /></a>  
-<a href="https://www.windicss.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/windicss.svg" alt="Windi CSS" height="50" /></a>  
-<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
-<a href="https://wordpress.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="50" /></a>  
+<a href="https://www.typescriptlang.org" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/typescript/000/fff" alt="TypeScript"/></a>
+<a href="https://laravel.com/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/laravel/000/fff" alt="Laravel" height="50" /></a>  
+<a href="https://vuejs.org/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/vuedotjs/000/fff" alt="Vue.js" height="50" /></a>  
+<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/figma/000/fff" alt="Figma" height="50" /></a>  
+<a href="https://www.adobe.com/in/products/xd.html" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/adobexd/000/fff" alt="Adobe XD" height="50" /></a>  
+<a href="https://www.adobe.com/in/products/indesign.html" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/adobeindesign/000/fff" alt="Adobe InDesign" height="50" /></a>  
+<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/adobeillustrator/000/fff" alt="Illustrator" height="50" /></a>  
+<a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/adobephotoshop/000/fff" alt="Photoshop" height="50" /></a>  
+<a href="https://mui.com/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/mui/000/fff" alt="Material UI" height="50" /></a>  
+<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/tailwindcss/000/fff" alt="Tailwind CSS" height="50" /></a>  
+<a href="https://wordpress.com/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/wordpress/000/fff" alt="WordPress" height="50" /></a>  
 </div>
 
 </td><td valign="top" width="33%">
