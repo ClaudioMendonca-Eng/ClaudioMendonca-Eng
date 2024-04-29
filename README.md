@@ -78,13 +78,13 @@
 ### DevOps  
 <div align="center">  
 <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/docker/000/fff" alt="Docker" height="50" /></a>  
-<a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/kubernetes/000/fff" alt="Kubernetes" height="50" /></a>  
-<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/amazonaws/000/fff" alt="AWS" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/git/000/fff" alt="Git" height="50" /></a>  
+<a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/kubernetes/000/fff" alt="Kubernetes" height="50" /></a> 
 <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/gnubash/000/fff" alt="Bash" height="50" /></a>  
 <a href="https://www.tableau.com/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/tableau/000/fff" alt="Tableau" height="50" /></a>  
 <a href="https://www.apachefriends.org/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/xampp/000/fff" alt="XAMPP" height="50" /></a>  
-<a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/firebase/000/fff" alt="Firebase" height="50" /></a>  
+<a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/firebase/000/fff" alt="Firebase" height="50" /></a>    
+<a href="https://git-scm.com/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/git/000/fff" alt="Git" height="50" /></a>  
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/github/000/fff" alt="GitHub" height="50" /></a>   
 <a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/gitlab/000/fff" alt="GitLab" height="50" /></a>  
 </div>
 
