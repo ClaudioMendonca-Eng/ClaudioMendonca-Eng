@@ -1,23 +1,20 @@
-<div align="center">
-<img src="https://www.nyse.com/publicdocs/images/Secondary-Hero-Fixed-Income-Data-Technology-06-1920x250.jpg" align="center" style="width: 100%" />
-</div>  
-  
+<img align="right" alt="Developer vector created by storyset - www.freepik.com" height="380" src="https://raw.githubusercontent.com/ClaudioMendonca-Eng/Site-claudiomendonca.eng.br/main/assets/images/bagreadme.png">
 
-### <div align="center">I'm Claudio Mendonça, full-time freelance full-stack developer 👨‍💻 working remotely since 2020 🚀</div>  
-  
+<h1>
+    <span>I'm Claudio Mendonça</span>
+</h1>
 
-- 🔭 I am currently working on a freelance website  
+<p align="justify">Full-time freelance full-stack developer 👨‍💻 working remotely since 2020 🚀 
+<br>
   
+- 🔭 I am currently working on a freelance website    
 
-- 🌱 I am currently actively participating in the ONE Oracle Next Education T6 program  
-  
+- 🌱 I am currently actively participating in the ONE Oracle Next Education T6  
 
-- 💬 Ask me about installing development environment  
-  
+- 💬 Ask me about installing development environment    
 
-- ⚡ Fun fact: Docker, making the developer's life easier!  
-  
-
+- ⚡ Fun fact: Docker, making the developer's life easier! </p>
+ 
 <br/>  
 
 
@@ -134,3 +131,15 @@
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
 https://github-profile-summary-cards.vercel.app/demo.html
 -->
+<br>
+<details align="left">
+  <summary></summary> 
+ 
+  - Badges by <a href="https://shields.io/">shields.io</a><br>
+  - GitHub Stats by <a href="https://github.com/anuraghazra/github-readme-stats">anuraghazra</a>
+  - GitHub Stats by <a href="https://profilinator.rishav.dev/">Generated using</a>
+  - Developer vector created by <a href="https://www.freepik.com/vectors/developer">storyset - www.freepik.com</a> (edited by author)
+ 
+  <div align="right">Made with ❤️ by <a href="https://github.com/ClaudioMendonca-Eng">Claudio Mendonça</a>.</div>
+
+</details>
