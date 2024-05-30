@@ -111,6 +111,8 @@
 <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/docker/000/fff" alt="Docker" height="50" /></a>  
 <a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/kubernetes/000/fff" alt="Kubernetes" height="50" /></a>  
 <a href="https://aws.amazon.com/pt/?nc2=h_lg" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/amazonwebservices/000/fff" alt="AWS" height="50" /></a> 
+<a href="https://www.heroku.com/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/heroku/000/fff" alt="Heroku" height="50" /></a> 
+<a href="https://streamlit.io/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/streamlit/000/fff" alt="Streamlit" height="50" /></a> 
 <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/gnubash/000/fff" alt="Bash" height="50" /></a>  
 <a href="https://www.tableau.com/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/tableau/000/fff" alt="Tableau" height="50" /></a>  
 <a href="https://www.apachefriends.org/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/xampp/000/fff" alt="XAMPP" height="50" /></a>  
