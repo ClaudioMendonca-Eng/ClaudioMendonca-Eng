@@ -121,7 +121,12 @@
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/github/000/fff" alt="GitHub" height="50" /></a>   
 <a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/gitlab/000/fff" alt="GitLab" height="50" /></a>   
 <a href="https://mermaid.live/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/mermaid/000/fff" alt="Mermaid" height="50" /></a>  
-<a href="https://www.uml.org/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/UML/000/fff" alt="UML" height="50" /></a>
+<a href="https://www.uml.org/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/UML/000/fff" alt="UML" height="50" /></a> 
+<a href="https://jira.com/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/jira/000/fff" alt="Jira" height="50" /></a>
+<a href="https://trello.com/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/trello/000/fff" alt="Trello" height="50" /></a>
+<a href="https://slack.com/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/slack/000/fff" alt="Slack" height="50" /></a>
+<a href="https://asana.com/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/asana/000/fff" alt="Asana" height="50" /></a>
+<a href="https://www.notion.so/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/notion/000/fff" alt="Notion" height="50" /></a>
 </div>
 
 </td></tr></table>   
