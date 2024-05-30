@@ -116,7 +116,8 @@
 <a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/firebase/000/fff" alt="Firebase" height="50" /></a>    
 <a href="https://git-scm.com/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/git/000/fff" alt="Git" height="50" /></a>  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/github/000/fff" alt="GitHub" height="50" /></a>   
-<a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/gitlab/000/fff" alt="GitLab" height="50" /></a>  
+<a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/gitlab/000/fff" alt="GitLab" height="50" /></a>   
+<a href="https://mermaid.live/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/mermaid/000/fff" alt="Mermaid" height="50" /></a>
 </div>
 
 </td></tr></table>   
