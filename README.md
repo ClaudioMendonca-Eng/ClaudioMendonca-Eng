@@ -25,29 +25,23 @@
 <a href="https://github.com/ClaudioMendonca-Eng" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://twitter.com/Eng_ClaudioM" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://dev.to/claudiomendonca" target="_blank">
-<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
-</a>
 <a href="https://linkedin.com/in/claudio-mendonca" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://instagram.com/claudiomendonca.eng.br" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
+<a href="https://twitter.com/Eng_ClaudioM" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="https://dev.to/claudiomendonca" target="_blank">
+<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
+</a>
 <a href="https://www.kaggle.com/claudiomendoncaeng" target="_blank">
 <img src=https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white alt=kaggle style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.youtube.com/@devclaudio" target="_blank">
 <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
-</a>  
-<a href="https://www.dio.me/users/claudioeduardoo" target="_blank">
-<img src=https://img.shields.io/badge/Dio.me-%231E77B5.svg?&style=for-the-badge&logo=dio&logoColor=white alt=Dio.me style="margin-bottom: 5px;" />
-</a>  
-<a href="https://cursos.alura.com.br/user/claudioeduardoo" target="_blank">
-<img src=https://img.shields.io/badge/Alura-%231E77B5.svg?&style=for-the-badge&logo=dio&logoColor=white alt=Alura style="margin-bottom: 5px;" />
 </a>
 </div>  
   
@@ -137,6 +131,26 @@
 
 <br/>
 
+## Profile in courses  
+<div align="center">
+<a href="https://learn.microsoft.com/pt-br/users/claudiomendonca/" target="_blank">
+<img src=https://img.shields.io/badge/Microsoft_Learn-258ffa?style=for-the-badge&logo=microsoft&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.credly.com/users/claudio-mendonca.9603ff6d/badges" target="_blank">
+<img src=https://img.shields.io/badge/Credly-FF5722?style=for-the-badge&logo=credly&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.coursera.org/user/eb2acbd69fdc7b3acb06a2b992796956" target="_blank">
+<img src=https://img.shields.io/badge/Coursera-258ffa?style=for-the-badge&logo=coursera&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.dio.me/users/claudioeduardoo" target="_blank">
+<img src=https://img.shields.io/badge/Dio.me-%231E77B5.svg?&style=for-the-badge&logo=dio&logoColor=white alt=Dio.me style="margin-bottom: 5px;" />
+</a>  
+<a href="https://cursos.alura.com.br/user/claudioeduardoo" target="_blank">
+<img src=https://img.shields.io/badge/Alura-%231E77B5.svg?&style=for-the-badge&logo=alura&logoColor=white alt=Alura style="margin-bottom: 5px;" />
+</a>
+</div>  
+
+<br/> 
 
 ## Github Stats
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ClaudioMendonca-Eng&theme=discord_old_blurple) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ClaudioMendonca-Eng&theme=discord_old_blurple&utcOffset=8) ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ClaudioMendonca-Eng&theme=discord_old_blurple) ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ClaudioMendonca-Eng&theme=discord_old_blurple) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ClaudioMendonca-Eng&theme=discord_old_blurple) |
