@@ -131,7 +131,7 @@
 
 <br/>
 
-## Profile in courses  
+## Profile in courses 
 <div align="center">
 <a href="https://learn.microsoft.com/pt-br/users/claudiomendonca/" target="_blank">
 <img src=https://img.shields.io/badge/Microsoft_Learn-258ffa?style=for-the-badge&logo=microsoft&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
@@ -140,13 +140,13 @@
 <img src=https://img.shields.io/badge/Credly-FF5722?style=for-the-badge&logo=credly&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.coursera.org/user/eb2acbd69fdc7b3acb06a2b992796956" target="_blank">
-<img src=https://img.shields.io/badge/Coursera-258ffa?style=for-the-badge&logo=coursera&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/Coursera-FFFFFF?style=for-the-badge&logo=coursera&logoColor=blue alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.dio.me/users/claudioeduardoo" target="_blank">
-<img src=https://img.shields.io/badge/Dio.me-%231E77B5.svg?&style=for-the-badge&logo=dio&logoColor=white alt=Dio.me style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/Dio.me-000000?&style=for-the-badge&logo=dio&logoColor=white alt=Dio.me style="margin-bottom: 5px;" />
 </a>  
 <a href="https://cursos.alura.com.br/user/claudioeduardoo" target="_blank">
-<img src=https://img.shields.io/badge/Alura-%231E77B5.svg?&style=for-the-badge&logo=alura&logoColor=white alt=Alura style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/Alura.com.br-16537E?&style=for-the-badge&logo=alura&logoColor=white alt=Alura style="margin-bottom: 5px;" />
 </a>
 </div>  
 
