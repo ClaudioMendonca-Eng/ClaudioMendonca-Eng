@@ -1,3 +1,4 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1451da&height=120&section=header"/>
 <img align="right" alt="Developer vector created by storyset - www.freepik.com" height="330" src="https://raw.githubusercontent.com/ClaudioMendonca-Eng/Site-claudiomendonca.eng.br/main/assets/images/bagreadme01.png">
 
 <h1>
@@ -172,3 +173,4 @@ https://github-profile-summary-cards.vercel.app/demo.html
   <div align="right">Made with ❤️ by <a href="https://github.com/ClaudioMendonca-Eng">Claudio Mendonça</a>.</div>
 
 </details>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1451da&height=120&section=footer"/>
