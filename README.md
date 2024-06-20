@@ -5,7 +5,7 @@
     <span>I'm Claudio Mendonça</span>
 </h1>
 
-<p align="justify">Full-time freelance full-stack developer 👨‍💻 working remotely since 2020 🚀 
+<p align="justify">Full-time freelance Back-End developer 👨‍💻 working remotely since 2020 🚀 
 <br>
   
 - 🔭 I am currently working on a freelance website    
