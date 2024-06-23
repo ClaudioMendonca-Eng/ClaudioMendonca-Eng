@@ -127,6 +127,9 @@
 <a href="https://slack.com/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/slack/000/fff" alt="Slack" height="50" /></a>
 <a href="https://asana.com/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/asana/000/fff" alt="Asana" height="50" /></a>
 <a href="https://www.notion.so/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/notion/000/fff" alt="Notion" height="50" /></a>
+<a href="https://github.com/features/copilot" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/GitHubCopilot/000/fff" alt="GitHub Copilot" height="50" /></a>
+<a href="https://openai.com/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/openai/000/fff" alt="Openai" height="50" /></a>
+<a href="https://gemini.google.com/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/googlegemini/000/fff" alt="Google Gemini" height="50" /></a>
 </div>
 
 </td></tr></table>   
