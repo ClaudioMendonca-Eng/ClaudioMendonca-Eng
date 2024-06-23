@@ -86,6 +86,7 @@
 <a href="https://laravel.com/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/laravel/000/fff" alt="Laravel" height="50" /></a>  
 <a href="https://symfony.com/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/symfony/000/fff" alt="Symfony" height="50" /></a>  
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/mysql/000/fff" alt="MySQL" height="50" /></a>  
+<a href="https://mariadb.org/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/mysql/000/fff" alt="MariaDB" height="50" /></a>    
 <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/mongodb/000/fff" alt="MongoDB" height="50" /></a>  
 <a href="https://www.php.net/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/php/000/fff" alt="PHP" height="50" /></a>  
 <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/postgresql/000/fff" alt="PostgreSQL" height="50" /></a>  
@@ -93,7 +94,6 @@
 <a href="https://flask.palletsprojects.com/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/flask/000/fff" alt="Flask" height="50" /></a>
 <a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/nginx/000/fff" alt="Nginx" height="50" /></a>  
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/linux/000/fff" alt="Linux" height="50" /></a>  
-<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/c/000/fff" alt="C" height="50" /></a>  
 <a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/cplusplus/000/fff" alt="C++" height="50" /></a>  
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/csharp/000/fff" alt="C#" height="50" /></a>  
 <a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/powershell/000/fff" alt="PowerShell" height="50" /></a>  
