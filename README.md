@@ -170,6 +170,7 @@ https://github-profile-summary-cards.vercel.app/demo.html
   <summary></summary> 
  
   - Badges by <a href="https://shields.io/">shields.io</a><br>
+  - Header e Footer by <a href="https://capsule-render.vercel.app/">github.com/kyechan99/capsule-render</a><br>
   - GitHub Stats by <a href="https://github.com/anuraghazra/github-readme-stats">anuraghazra</a>
   - GitHub Stats by <a href="https://profilinator.rishav.dev/">Generated using</a>
   - Developer vector created by <a href="https://www.freepik.com/vectors/developer">storyset - www.freepik.com</a> (edited by author)
