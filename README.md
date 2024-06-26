@@ -104,7 +104,7 @@
 
 </td><td valign="top" width="33%">
 
-### DevOps  
+### Programming Tools 
 <div align="center">  
 <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/docker/000/fff" alt="Docker" height="50" /></a>  
 <a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/kubernetes/000/fff" alt="Kubernetes" height="50" /></a>  
