@@ -141,7 +141,7 @@
 <a href="https://learn.microsoft.com/pt-br/users/claudiomendonca/" target="_blank">
 <img src=https://img.shields.io/badge/Microsoft_Learn-258ffa?style=for-the-badge&logo=microsoft&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.credly.com/users/claudio-mendonca.9603ff6d/badges" target="_blank">
+<a href="https://credly.com/users/claudiomendonca/badges" target="_blank">
 <img src=https://img.shields.io/badge/Credly-FF5722?style=for-the-badge&logo=credly&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.coursera.org/user/eb2acbd69fdc7b3acb06a2b992796956" target="_blank">
