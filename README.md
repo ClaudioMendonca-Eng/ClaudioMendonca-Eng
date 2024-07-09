@@ -57,6 +57,7 @@
 <div align="center">  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/html5/000/fff" alt="HTML5"/></a>
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/css3/000/fff" alt="CSS3"/></a> 
+<a href="https://lesscss.org/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/less/000/fff" alt="LESS"/></a> 
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/javascript/000/fff" alt="JavaScript"/></a>
 <a href="https://www.typescriptlang.org" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/typescript/000/fff" alt="TypeScript"/></a>
 <a href="https://laravel.com/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/laravel/000/fff" alt="Laravel" height="50" /></a>  
