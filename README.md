@@ -59,7 +59,8 @@
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/css3/000/fff" alt="CSS3"/></a> 
 <a href="https://lesscss.org/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/less/000/fff" alt="LESS"/></a> 
 <a href="https://sass-lang.com/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/sass/000/fff" alt="Sass"/></a> 
-<a href="https://postcss.org/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/postcss/000/fff" alt="PostCSS"/></a> 
+<a href="https://postcss.org/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/postcss/000/fff" alt="PostCSS"/></a>
+<a href="https://stylelint.io/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/stylelint/000/fff" alt="Stylelint"/></a>  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/javascript/000/fff" alt="JavaScript"/></a>
 <a href="https://www.typescriptlang.org" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/typescript/000/fff" alt="TypeScript"/></a>
 <a href="https://laravel.com/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/laravel/000/fff" alt="Laravel" height="50" /></a>  
