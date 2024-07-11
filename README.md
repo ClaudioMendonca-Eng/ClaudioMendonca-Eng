@@ -97,7 +97,7 @@
 <a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/nginx/000/fff" alt="Nginx" height="50" /></a>  
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/linux/000/fff" alt="Linux" height="50" /></a>  
 <a href="https://learn.microsoft.com/pt-br/cpp/?view=msvc-170" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/c/000/fff" alt="C++" height="50" /></a> 
-<a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/powershell/000/fff" alt="PowerShell" height="50" /></a>  
+<a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://raw.githubusercontent.com/ClaudioMendonca-Eng/Site-claudiomendonca.eng.br/7583d3134f9d4532f5a7bc47550e6a42e81ac17d/assets/images/PowerShell.svg" alt="PowerShell" height="50" /></a>  
 <a href="https://www.r-project.org/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/r/000/fff" alt="R" height="50" /></a>  
 <a href="https://www.raspberrypi.org/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/raspberrypi/000/fff" alt="Raspberry Pi" height="50" /></a>  
 <a href="https://www.arduino.cc/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/arduino/000/fff" alt="Arduino" height="50" /></a> 
