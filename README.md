@@ -64,7 +64,8 @@
 <a href="https://styled-components.com/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/styledcomponents/000/fff" alt="Styled Components"/></a>  
 <a href="https://github.com/css-modules/css-modules" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/cssmodules/000/fff" alt="CSS Modules"/></a>  
 <a href="https://developer.mozilla.org/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/mdnwebdocs/000/fff" alt="MDN Web Docs"/></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/javascript/000/fff" alt="JavaScript"/></a>
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/javascript/000/fff" alt="JavaScript"/></a> 
+<a href="https://jquery.com/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/jquery/000/fff" alt="jQuery"/></a>
 <a href="https://www.typescriptlang.org" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/typescript/000/fff" alt="TypeScript"/></a>
 <a href="https://laravel.com/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/laravel/000/fff" alt="Laravel" height="50" /></a>  
 <a href="https://vuejs.org/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/vuedotjs/000/fff" alt="Vue.js" height="50" /></a>   
