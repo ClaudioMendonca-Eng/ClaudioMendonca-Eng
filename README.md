@@ -175,7 +175,7 @@
 https://github-profile-summary-cards.vercel.app/demo.html
 -->
 <details align="left">
-  <summary></summary> 
+  <summary><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 22></summary> 
  
   - Badges by <a href="https://shields.io/">shields.io</a><br>
   - Header e Footer by <a href="https://capsule-render.vercel.app/">github.com/kyechan99/capsule-render</a><br>
