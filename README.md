@@ -156,7 +156,7 @@
 <img src=https://img.shields.io/badge/Coursera-FFFFFF?style=for-the-badge&logo=coursera&logoColor=blue alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.dio.me/users/claudioeduardoo" target="_blank">
-<img src=https://img.shields.io/badge/Dio.me-000000?&style=for-the-badge&logo=dio&logoColor=white alt=Dio.me style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/Dio.me-b800e7?&style=for-the-badge&logo=dio&logoColor=white alt=Dio.me style="margin-bottom: 5px;" />
 </a>  
 <a href="https://cursos.alura.com.br/user/claudiomendonca" target="_blank">
 <img src=https://img.shields.io/badge/Alura.com.br-16537E?&style=for-the-badge&logo=alura&logoColor=white alt=Alura style="margin-bottom: 5px;" />
