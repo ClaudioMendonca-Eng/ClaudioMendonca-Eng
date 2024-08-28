@@ -10,7 +10,7 @@
   
 - 🔭 I am currently working on a freelance website    
 
-- 🌱 I am currently actively participating in the ONE Oracle Next Education T6  
+- 🌱 I am currently actively participating in the DIO Campus Expert | Turma 09  
 
 - 💬 Ask me about installing development environment    
 
