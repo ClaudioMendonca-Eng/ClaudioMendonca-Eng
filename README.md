@@ -1,20 +1,21 @@
-<a href="https://github.com/ClaudioMendonca-Eng"><img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1451da&height=120&section=header"/></a>
-<a href="https://claudiomendonca.eng.br/"><img align="right" alt="Developer vector created by storyset - www.freepik.com" height="330" src="https://raw.githubusercontent.com/ClaudioMendonca-Eng/Site-claudiomendonca.eng.br/main/assets/images/bagreadme01.png"></a>
+<a href="https://claudiomendonca.eng.br"><img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1451da&height=120&section=header"/></a>
+<a href="https://claudiomendonca.eng.br"><img align="right" alt="Developer vector created by storyset - www.freepik.com" height="330" src="https://raw.githubusercontent.com/ClaudioMendonca-Eng/Site-claudiomendonca.eng.br/main/assets/images/bagreadme01.png"></a>
 
 <h1>
     <span>I'm Claudio Mendonça</span>
 </h1>
 
-<p align="justify">Full-time freelance Back-End developer. 👨‍💻 
+<p align="justify">Software Engineer | Backend Developer. 👨‍💻 
 <br>
   
-- 🔭 I am currently working on a freelance website    
+- 🔭 Currently working at [Lumini IT Solutions](https://luminiitsolutions.com/)   
 
-- 🌱 I am currently actively participating in the DIO Campus Expert | Turma 09  
+- 🌱 Studying to become an AWS Certified Developer – Associate  
 
-- 💬 Ask me about installing development environment    
+- 💬 Feel free to ask me about productivity and organization in the world of information    
 
-- ⚡ Fun fact: Docker, making the developer's life easier! </p>
+- ⚡ Fun fact: Docker – making developers' lives easier since day one! </p>
+
  
 <br/>  
 
@@ -67,6 +68,7 @@
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/javascript/000/fff" alt="JavaScript"/></a> 
 <a href="https://jquery.com/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/jquery/000/fff" alt="jQuery"/></a>
 <a href="https://www.typescriptlang.org" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/typescript/000/fff" alt="TypeScript"/></a>
+<a href="https://react.dev/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/react/000/fff" alt="React" height="50" /></a>  
 <a href="https://laravel.com/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/laravel/000/fff" alt="Laravel" height="50" /></a>  
 <a href="https://vuejs.org/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/vuedotjs/000/fff" alt="Vue.js" height="50" /></a>   
 <a href="https://mui.com/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/mui/000/fff" alt="Material UI" height="50" /></a>  
@@ -79,7 +81,7 @@
 ### Backend  
 <div align="center">   
 <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/pt/3/30/Java_programming_language_logo.svg" alt="Java" height="50" /></a>
-<a href="https://www.oracle.com/in/index.html" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/oracle/000/fff" alt="Oracle" height="50" /></a>  
+<a href="https://www.oracle.com/in/index.html" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://www.svgrepo.com/show/355152/oracle.svg" alt="Oracle" height="50" /></a>  
 <a href="https://spring.io/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/spring/000/fff" alt="Spring" height="50" /></a>    
 <a href="https://spring.io/projects/spring-boot" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/springboot/000/fff" alt="Spring Boot" height="50" /></a> 
 <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/express/000/fff" alt="Express.js" height="50" /></a>    
@@ -115,17 +117,17 @@
 <a href="https://render.com/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/render/000/fff" alt="Render" height="50" /></a> 
 <a href="https://streamlit.io/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/streamlit/000/fff" alt="Streamlit" height="50" /></a> 
 <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/gnubash/000/fff" alt="Bash" height="50" /></a>  
-<a href="https://www.tableau.com/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/tableau/000/fff" alt="Tableau" height="50" /></a>  
+<a href="https://www.tableau.com/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://www.svgrepo.com/show/354428/tableau-icon.svg" alt="Tableau" height="50" /></a>  
 <a href="https://www.apachefriends.org/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/xampp/000/fff" alt="XAMPP" height="50" /></a>  
 <a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/firebase/000/fff" alt="Firebase" height="50" /></a>    
 <a href="https://git-scm.com/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/git/000/fff" alt="Git" height="50" /></a>  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/github/000/fff" alt="GitHub" height="50" /></a>   
 <a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/gitlab/000/fff" alt="GitLab" height="50" /></a>
 <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/figma/000/fff" alt="Figma" height="50" /></a>  
-<a href="https://www.adobe.com/in/products/xd.html" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/adobexd/000/fff" alt="Adobe XD" height="50" /></a>  
-<a href="https://www.adobe.com/in/products/indesign.html" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/adobeindesign/000/fff" alt="Adobe InDesign" height="50" /></a>  
-<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/adobeillustrator/000/fff" alt="Illustrator" height="50" /></a>  
-<a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/adobephotoshop/000/fff" alt="Photoshop" height="50" /></a>    
+<a href="https://www.adobe.com/in/products/xd.html" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://www.svgrepo.com/show/452151/adobe-xd.svg" alt="Adobe XD" height="50" /></a>  
+<a href="https://www.adobe.com/in/products/indesign.html" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://www.svgrepo.com/show/303342/adobe-indesign-cs6-logo.svg" alt="Adobe InDesign" height="50" /></a>  
+<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://www.svgrepo.com/show/53799/illustrator.svg" alt="Illustrator" height="50" /></a>  
+<a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://www.svgrepo.com/show/303177/photoshop-cc-logo.svg" alt="Photoshop" height="50" /></a>    
 <a href="https://mermaid.live/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/mermaid/000/fff" alt="Mermaid" height="50" /></a>  
 <a href="https://www.uml.org/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/UML/000/fff" alt="UML" height="50" /></a>  
 <a href="https://app.creately.com/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/c/000/fff" alt="Creately" height="50" /></a> 
@@ -186,4 +188,4 @@ https://github-profile-summary-cards.vercel.app/demo.html
   <div align="right">Made with ❤️ by <a href="https://github.com/ClaudioMendonca-Eng">Claudio Mendonça</a>.</div>
 
 </details>
-<a href="https://github.com/ClaudioMendonca-Eng"><img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1451da&height=120&section=footer"/></a>
+<a href="https://claudiomendonca.eng.br"><img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1451da&height=120&section=footer"/></a>
