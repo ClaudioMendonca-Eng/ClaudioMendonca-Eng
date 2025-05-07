@@ -62,7 +62,7 @@
 <a href="https://sass-lang.com/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Sass.svg" alt="Sass"/></a> 
 <a href="https://postcss.org/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/postcss/000/fff" alt="PostCSS"/></a>
 <a href="https://stylelint.io/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://raw.githubusercontent.com/ClaudioMendonca-Eng/ClaudioMendonca-Eng/refs/heads/main/icones/stylelint.svg" alt="Stylelint"/></a>  
-<a href="https://styled-components.com/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/styledcomponents/000/fff" alt="Styled Components"/></a>  
+<a href="https://styled-components.com/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://github.com/tandpfun/skill-icons/blob/main/icons/StyledComponents.svg" alt="Styled Components"/></a>  
 <a href="https://github.com/css-modules/css-modules" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/cssmodules/000/fff" alt="CSS Modules"/></a>  
 <a href="https://developer.mozilla.org/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/mdnwebdocs/000/fff" alt="MDN Web Docs"/></a>  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/javascript/000/fff" alt="JavaScript"/></a> 
@@ -71,8 +71,8 @@
 <a href="https://react.dev/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/react/000/fff" alt="React" height="50" /></a>  
 <a href="https://laravel.com/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Laravel-Dark.svg" alt="Laravel" height="50" /></a>  
 <a href="https://vuejs.org/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/vuedotjs/000/fff" alt="Vue.js" height="50" /></a>   
-<a href="https://mui.com/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/mui/000/fff" alt="Material UI" height="50" /></a>  
-<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/tailwindcss/000/fff" alt="Tailwind CSS" height="50" /></a>  
+<a href="https://mui.com/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MaterialUI-Dark.svg" alt="Material UI" height="50" /></a>  
+<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg" alt="Tailwind CSS" height="50" /></a>  
 <a href="https://wordpress.com/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/wordpress/000/fff" alt="WordPress" height="50" /></a>  
 </div>
 
@@ -88,11 +88,11 @@
 <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/nodedotjs/000/fff" alt="Node.js" height="50" /></a>   
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/python/000/fff" alt="Python" height="50" /></a> 
 <a href="https://graphql.org/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/graphql/000/fff" alt="GraphQL" height="50" /></a>   
-<a href="https://laravel.com/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/laravel/000/fff" alt="Laravel" height="50" /></a>  
-<a href="https://symfony.com/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/symfony/000/fff" alt="Symfony" height="50" /></a>  
+<a href="https://laravel.com/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Laravel-Dark.svg" alt="Laravel" height="50" /></a>  
+<a href="https://symfony.com/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Symfony-Dark.svg" alt="Symfony" height="50" /></a>  
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/mysql/000/fff" alt="MySQL" height="50" /></a>  
 <a href="https://mariadb.org/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/mariadb/000/fff" alt="MariaDB" height="50" /></a>    
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/mongodb/000/fff" alt="MongoDB" height="50" /></a> 
+<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" alt="MongoDB" height="50" /></a> 
 <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/postgresql/000/fff" alt="PostgreSQL" height="50" /></a>  
 <a href="https://redis.io/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/redis/000/fff" alt="Redis" height="50" /></a>  
 <a href="https://www.php.net/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/php/000/fff" alt="PHP" height="50" /></a>  
@@ -101,9 +101,9 @@
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/linux/000/fff" alt="Linux" height="50" /></a>  
 <a href="https://learn.microsoft.com/pt-br/cpp/?view=msvc-170" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/c/000/fff" alt="C++" height="50" /></a> 
 <a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://raw.githubusercontent.com/ClaudioMendonca-Eng/Site-claudiomendonca.eng.br/7583d3134f9d4532f5a7bc47550e6a42e81ac17d/assets/images/PowerShell.svg" alt="PowerShell" height="50" /></a>  
-<a href="https://www.r-project.org/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/r/000/fff" alt="R" height="50" /></a>  
+<a href="https://www.r-project.org/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://github.com/tandpfun/skill-icons/blob/main/icons/R-Dark.svg" alt="R" height="50" /></a>  
 <a href="https://www.raspberrypi.org/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/raspberrypi/000/fff" alt="Raspberry Pi" height="50" /></a>  
-<a href="https://www.arduino.cc/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/arduino/000/fff" alt="Arduino" height="50" /></a> 
+<a href="https://www.arduino.cc/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Arduino.svg" alt="Arduino" height="50" /></a> 
 </div>
 
 </td><td valign="top" width="33%">
