@@ -56,12 +56,12 @@
 
 ### Frontend  
 <div align="center">  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/html5/000/fff" alt="HTML5"/></a>
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/css3/000/fff" alt="CSS3"/></a> 
-<a href="https://lesscss.org/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/less/000/fff" alt="LESS"/></a> 
-<a href="https://sass-lang.com/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/sass/000/fff" alt="Sass"/></a> 
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" alt="HTML5"/></a>
+<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" alt="CSS3"/></a> 
+<a href="https://lesscss.org/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Less-Dark.svg" alt="LESS"/></a> 
+<a href="https://sass-lang.com/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Sass.svg" alt="Sass"/></a> 
 <a href="https://postcss.org/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/postcss/000/fff" alt="PostCSS"/></a>
-<a href="https://stylelint.io/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/stylelint/000/fff" alt="Stylelint"/></a>  
+<a href="https://stylelint.io/" target="_blank"><img style="margin: 10px" height="30" width="30" src="" alt="Stylelint"/></a>  
 <a href="https://styled-components.com/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/styledcomponents/000/fff" alt="Styled Components"/></a>  
 <a href="https://github.com/css-modules/css-modules" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/cssmodules/000/fff" alt="CSS Modules"/></a>  
 <a href="https://developer.mozilla.org/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/mdnwebdocs/000/fff" alt="MDN Web Docs"/></a>  
@@ -69,7 +69,7 @@
 <a href="https://jquery.com/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/jquery/000/fff" alt="jQuery"/></a>
 <a href="https://www.typescriptlang.org" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/typescript/000/fff" alt="TypeScript"/></a>
 <a href="https://react.dev/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/react/000/fff" alt="React" height="50" /></a>  
-<a href="https://laravel.com/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/laravel/000/fff" alt="Laravel" height="50" /></a>  
+<a href="https://laravel.com/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Laravel-Dark.svg" alt="Laravel" height="50" /></a>  
 <a href="https://vuejs.org/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/vuedotjs/000/fff" alt="Vue.js" height="50" /></a>   
 <a href="https://mui.com/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/mui/000/fff" alt="Material UI" height="50" /></a>  
 <a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/tailwindcss/000/fff" alt="Tailwind CSS" height="50" /></a>  
