@@ -185,6 +185,7 @@ https://github-profile-summary-cards.vercel.app/demo.html
   - Header e Footer by <a href="https://capsule-render.vercel.app/">github.com/kyechan99/capsule-render</a><br>
   - GitHub Stats by <a href="https://github.com/anuraghazra/github-readme-stats">anuraghazra</a>
   - GitHub Stats by <a href="https://profilinator.rishav.dev/">Generated using</a>
+  - GitHub Profile 3D Contrib. by <a href="https://github.com/yoshi389111/github-profile-3d-contrib">SATO, Yoshiyuki</a>
   - Developer vector created by <a href="https://www.freepik.com/vectors/developer">storyset - www.freepik.com</a> (edited by author)
  
   <div align="right">Made with ❤️ by <a href="https://github.com/ClaudioMendonca-Eng">Claudio Mendonça</a>.</div>
