@@ -172,6 +172,8 @@
 |:---:|
 | <img src="https://komarev.com/ghpvc/?username=ClaudioMendonca-Eng&&style=flat-square" align="center" /> <a href="https://www.paypal.com/donate/?business=YYQV3JNX2PCFS&no_recurring=0&item_name=Obrigado+pelo+cafezinho%21%21+%2F+Thanks+for+the+coffee%21%21&currency_code=USD" target="_blank" style="display: inline-block;"> <img src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square&logo=paypal" align="center"/></a> <a href="https://www.buymeacoffee.com/claudiomendonca" target="_blank" style="display: inline-block;"> <img src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" align="center"/></a>|
 
+![Status](./profile-3d-contrib/profile-night-rainbow.svg)
+
 <!--
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
 https://github-profile-summary-cards.vercel.app/demo.html
