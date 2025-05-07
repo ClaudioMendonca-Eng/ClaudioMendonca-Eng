@@ -11,7 +11,7 @@ jobs:
     name: generate-github-profile-3d-contrib
     steps:
       - uses: actions/checkout@v4
-      - uses: ClaudioMendonca-Eng/github-profile-3d-contrib@latest
+      - uses: claudioMendonca-eng/github-profile-3d-contrib@latest
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
@@ -23,4 +23,3 @@ jobs:
           git add -A .
           if git commit -m "generated"; then
             git push
-          fi
