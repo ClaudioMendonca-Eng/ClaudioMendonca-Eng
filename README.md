@@ -61,7 +61,7 @@
 <a href="https://lesscss.org/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Less-Dark.svg" alt="LESS"/></a> 
 <a href="https://sass-lang.com/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Sass.svg" alt="Sass"/></a> 
 <a href="https://postcss.org/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/postcss/000/fff" alt="PostCSS"/></a>
-<a href="https://stylelint.io/" target="_blank"><img style="margin: 10px" height="30" width="30" src="" alt="Stylelint"/></a>  
+<a href="https://stylelint.io/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://raw.githubusercontent.com/ClaudioMendonca-Eng/ClaudioMendonca-Eng/refs/heads/main/icones/stylelint.svg" alt="Stylelint"/></a>  
 <a href="https://styled-components.com/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/styledcomponents/000/fff" alt="Styled Components"/></a>  
 <a href="https://github.com/css-modules/css-modules" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/cssmodules/000/fff" alt="CSS Modules"/></a>  
 <a href="https://developer.mozilla.org/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/mdnwebdocs/000/fff" alt="MDN Web Docs"/></a>  
