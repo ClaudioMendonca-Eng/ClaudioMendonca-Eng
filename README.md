@@ -56,13 +56,13 @@
 
 ### Frontend  
 <div align="center">  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" alt="HTML5"/></a>
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" alt="CSS3"/></a> 
-<a href="https://lesscss.org/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Less-Dark.svg" alt="LESS"/></a> 
-<a href="https://sass-lang.com/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Sass.svg" alt="Sass"/></a> 
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://raw.githubusercontent.com/ClaudioMendonca-Eng/ClaudioMendonca-Eng/refs/heads/main/icones/HTML.svg" alt="HTML5"/></a>
+<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://raw.githubusercontent.com/ClaudioMendonca-Eng/ClaudioMendonca-Eng/refs/heads/main/icones/CSS.svg" alt="CSS3"/></a> 
+<a href="https://lesscss.org/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://raw.githubusercontent.com/ClaudioMendonca-Eng/ClaudioMendonca-Eng/refs/heads/main/icones/Less-Dark.svg" alt="LESS"/></a> 
+<a href="https://sass-lang.com/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://raw.githubusercontent.com/ClaudioMendonca-Eng/ClaudioMendonca-Eng/refs/heads/main/icones/Sass.svg" alt="Sass"/></a> 
 <a href="https://postcss.org/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/postcss/000/fff" alt="PostCSS"/></a>
 <a href="https://stylelint.io/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://raw.githubusercontent.com/ClaudioMendonca-Eng/ClaudioMendonca-Eng/refs/heads/main/icones/stylelint.svg" alt="Stylelint"/></a>  
-<a href="https://styled-components.com/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://github.com/tandpfun/skill-icons/blob/main/icons/StyledComponents.svg" alt="Styled Components"/></a>  
+<a href="https://styled-components.com/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://raw.githubusercontent.com/ClaudioMendonca-Eng/ClaudioMendonca-Eng/refs/heads/main/icones/StyledComponents.svg" alt="Styled Components"/></a>  
 <a href="https://github.com/css-modules/css-modules" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/cssmodules/000/fff" alt="CSS Modules"/></a>  
 <a href="https://developer.mozilla.org/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/mdnwebdocs/000/fff" alt="MDN Web Docs"/></a>  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/javascript/000/fff" alt="JavaScript"/></a> 
@@ -71,8 +71,8 @@
 <a href="https://react.dev/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/react/000/fff" alt="React" height="50" /></a>  
 <a href="https://laravel.com/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Laravel-Dark.svg" alt="Laravel" height="50" /></a>  
 <a href="https://vuejs.org/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/vuedotjs/000/fff" alt="Vue.js" height="50" /></a>   
-<a href="https://mui.com/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MaterialUI-Dark.svg" alt="Material UI" height="50" /></a>  
-<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg" alt="Tailwind CSS" height="50" /></a>  
+<a href="https://mui.com/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://raw.githubusercontent.com/ClaudioMendonca-Eng/ClaudioMendonca-Eng/refs/heads/main/icones/MaterialUI-Dark.svg" alt="Material UI" height="50" /></a>  
+<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://raw.githubusercontent.com/ClaudioMendonca-Eng/ClaudioMendonca-Eng/refs/heads/main/icones/TailwindCSS-Dark.svg" alt="Tailwind CSS" height="50" /></a>  
 <a href="https://wordpress.com/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/wordpress/000/fff" alt="WordPress" height="50" /></a>  
 </div>
 
@@ -111,27 +111,27 @@
 ### Devtools
 <div align="center">  
 <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/docker/000/fff" alt="Docker" height="50" /></a>  
-<a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/kubernetes/000/fff" alt="Kubernetes" height="50" /></a>  
+<a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://raw.githubusercontent.com/ClaudioMendonca-Eng/ClaudioMendonca-Eng/refs/heads/main/icones/Kubernetes.svg" alt="Kubernetes" height="50" /></a>  
 <a href="https://aws.amazon.com/pt/?nc2=h_lg" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/amazonwebservices/000/fff" alt="AWS" height="50" /></a> 
 <a href="https://www.heroku.com/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/heroku/000/fff" alt="Heroku" height="50" /></a> 
-<a href="https://render.com/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/render/000/fff" alt="Render" height="50" /></a> 
+<a href="https://render.com/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://raw.githubusercontent.com/ClaudioMendonca-Eng/ClaudioMendonca-Eng/refs/heads/main/icones/render.svg" alt="Render" height="50" /></a> 
 <a href="https://streamlit.io/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/streamlit/000/fff" alt="Streamlit" height="50" /></a> 
 <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/gnubash/000/fff" alt="Bash" height="50" /></a>  
 <a href="https://www.tableau.com/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://www.svgrepo.com/show/354428/tableau-icon.svg" alt="Tableau" height="50" /></a>  
-<a href="https://www.apachefriends.org/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/xampp/000/fff" alt="XAMPP" height="50" /></a>  
+<a href="https://www.apachefriends.org/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://raw.githubusercontent.com/ClaudioMendonca-Eng/ClaudioMendonca-Eng/refs/heads/main/icones/xampp.svg" alt="XAMPP" height="50" /></a>  
 <a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/firebase/000/fff" alt="Firebase" height="50" /></a>    
 <a href="https://git-scm.com/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/git/000/fff" alt="Git" height="50" /></a>  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/github/000/fff" alt="GitHub" height="50" /></a>   
-<a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/gitlab/000/fff" alt="GitLab" height="50" /></a>
+<a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://raw.githubusercontent.com/ClaudioMendonca-Eng/ClaudioMendonca-Eng/refs/heads/main/icones/GitLab-Dark.svg" alt="GitLab" height="50" /></a>
 <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/figma/000/fff" alt="Figma" height="50" /></a>  
 <a href="https://www.adobe.com/in/products/xd.html" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://www.svgrepo.com/show/452151/adobe-xd.svg" alt="Adobe XD" height="50" /></a>  
 <a href="https://www.adobe.com/in/products/indesign.html" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://www.svgrepo.com/show/303342/adobe-indesign-cs6-logo.svg" alt="Adobe InDesign" height="50" /></a>  
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://www.svgrepo.com/show/53799/illustrator.svg" alt="Illustrator" height="50" /></a>  
 <a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://www.svgrepo.com/show/303177/photoshop-cc-logo.svg" alt="Photoshop" height="50" /></a>    
-<a href="https://mermaid.live/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/mermaid/000/fff" alt="Mermaid" height="50" /></a>  
+<a href="https://mermaid.live/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://raw.githubusercontent.com/ClaudioMendonca-Eng/ClaudioMendonca-Eng/refs/heads/main/icones/mermaid.svg" alt="Mermaid" height="50" /></a>  
 <a href="https://www.uml.org/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/UML/000/fff" alt="UML" height="50" /></a>  
 <a href="https://app.creately.com/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/c/000/fff" alt="Creately" height="50" /></a> 
-<a href="https://jira.com/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/jira/000/fff" alt="Jira" height="50" /></a>
+<a href="https://jira.com/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://raw.githubusercontent.com/ClaudioMendonca-Eng/ClaudioMendonca-Eng/refs/heads/main/icones/jira.svg" alt="Jira" height="50" /></a>
 <a href="https://trello.com/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/trello/000/fff" alt="Trello" height="50" /></a>
 <a href="https://slack.com/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/slack/000/fff" alt="Slack" height="50" /></a>
 <a href="https://asana.com/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/asana/000/fff" alt="Asana" height="50" /></a>
@@ -139,7 +139,7 @@
 <a href="https://obsidian.md/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/obsidian/000/fff" alt="Obsidian" height="50" /></a>    
 <a href="https://github.com/features/copilot" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/GitHubCopilot/000/fff" alt="GitHub Copilot" height="50" /></a>
 <a href="https://openai.com/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/openai/000/fff" alt="Openai" height="50" /></a>
-<a href="https://gemini.google.com/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/googlegemini/000/fff" alt="Google Gemini" height="50" /></a>
+<a href="https://gemini.google.com/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://raw.githubusercontent.com/ClaudioMendonca-Eng/ClaudioMendonca-Eng/refs/heads/main/icones/gemini.svg" alt="Google Gemini" height="50" /></a>
 </div>
 
 </td></tr></table>   
