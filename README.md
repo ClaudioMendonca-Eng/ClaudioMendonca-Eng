@@ -133,7 +133,7 @@
 <a href="https://app.creately.com/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/c/000/fff" alt="Creately" height="50" /></a> 
 <a href="https://jira.com/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://raw.githubusercontent.com/ClaudioMendonca-Eng/ClaudioMendonca-Eng/refs/heads/main/icones/jira.svg" alt="Jira" height="50" /></a>
 <a href="https://trello.com/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/trello/000/fff" alt="Trello" height="50" /></a>
-<a href="https://slack.com/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/slack/000/fff" alt="Slack" height="50" /></a>
+<a href="https://slack.com/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://raw.githubusercontent.com/ClaudioMendonca-Eng/ClaudioMendonca-Eng/refs/heads/main/icones/slack.svg" alt="Slack" height="50" /></a>
 <a href="https://asana.com/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/asana/000/fff" alt="Asana" height="50" /></a>
 <a href="https://www.notion.so/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/notion/000/fff" alt="Notion" height="50" /></a>
 <a href="https://obsidian.md/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/obsidian/000/fff" alt="Obsidian" height="50" /></a>    
