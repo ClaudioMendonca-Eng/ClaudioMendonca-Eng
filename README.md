@@ -80,8 +80,7 @@
 ### Backend  
 <table><tr><td valign="top" width="100%">
 <div align="center" style="white-space: nowrap; overflow-x: auto;">   
-<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/pt/3/30/Java_programming_language_logo.svg" alt="Java" height="50" /></a>
-<a href="https://www.oracle.com/in/index.html" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://www.svgrepo.com/show/355152/oracle.svg" alt="Oracle" height="50" /></a>  
+<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/pt/3/30/Java_programming_language_logo.svg" alt="Java" height="50" /></a> <a href="https://www.oracle.com/in/index.html" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://www.svgrepo.com/show/355152/oracle.svg" alt="Oracle" height="50" /></a>  
 <a href="https://spring.io/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/spring/000/fff" alt="Spring" height="50" /></a>    
 <a href="https://spring.io/projects/spring-boot" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/springboot/000/fff" alt="Spring Boot" height="50" /></a> 
 <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/express/000/fff" alt="Express.js" height="50" /></a>    
