@@ -55,7 +55,7 @@
 
 ### Frontend  
 <table><tr><td valign="top" width="100%">
-<div align="center">  
+<div align="center" style="white-space: nowrap; overflow-x: auto;">  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://raw.githubusercontent.com/ClaudioMendonca-Eng/ClaudioMendonca-Eng/refs/heads/main/icones/HTML.svg" alt="HTML5"/></a>
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://raw.githubusercontent.com/ClaudioMendonca-Eng/ClaudioMendonca-Eng/refs/heads/main/icones/CSS.svg" alt="CSS3"/></a> 
 <a href="https://lesscss.org/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://raw.githubusercontent.com/ClaudioMendonca-Eng/ClaudioMendonca-Eng/refs/heads/main/icones/Less-Dark.svg" alt="LESS"/></a> 
@@ -79,7 +79,7 @@
 
 ### Backend  
 <table><tr><td valign="top" width="100%">
-<div align="center">   
+<div align="center" style="white-space: nowrap; overflow-x: auto;">   
 <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/pt/3/30/Java_programming_language_logo.svg" alt="Java" height="50" /></a>
 <a href="https://www.oracle.com/in/index.html" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://www.svgrepo.com/show/355152/oracle.svg" alt="Oracle" height="50" /></a>  
 <a href="https://spring.io/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/spring/000/fff" alt="Spring" height="50" /></a>    
@@ -109,7 +109,7 @@
 
 ### Devtools
 <table><tr><td valign="top" width="100%">
-<div align="center">  
+<div align="center" style="white-space: nowrap; overflow-x: auto;">  
 <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/docker/000/fff" alt="Docker" height="50" /></a>  
 <a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://raw.githubusercontent.com/ClaudioMendonca-Eng/ClaudioMendonca-Eng/refs/heads/main/icones/Kubernetes.svg" alt="Kubernetes" height="50" /></a>  
 <a href="https://aws.amazon.com/pt/?nc2=h_lg" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://raw.githubusercontent.com/ClaudioMendonca-Eng/ClaudioMendonca-Eng/2d9a8dafdcadae99c1f06f493573f7c2f33b118e/icones/AWS-Dark.svg" alt="AWS" height="50" /></a> 
