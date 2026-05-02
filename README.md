@@ -52,9 +52,9 @@
 
 
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
 
 ### Frontend  
+<table><tr><td valign="top" width="100%">
 <div align="center">  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://raw.githubusercontent.com/ClaudioMendonca-Eng/ClaudioMendonca-Eng/refs/heads/main/icones/HTML.svg" alt="HTML5"/></a>
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://raw.githubusercontent.com/ClaudioMendonca-Eng/ClaudioMendonca-Eng/refs/heads/main/icones/CSS.svg" alt="CSS3"/></a> 
@@ -75,10 +75,10 @@
 <a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://raw.githubusercontent.com/ClaudioMendonca-Eng/ClaudioMendonca-Eng/refs/heads/main/icones/TailwindCSS-Dark.svg" alt="Tailwind CSS" height="50" /></a>  
 <a href="https://wordpress.com/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/wordpress/000/fff" alt="WordPress" height="50" /></a>  
 </div>
-
-</td><td valign="top" width="33%">
+</td></tr></table>
 
 ### Backend  
+<table><tr><td valign="top" width="100%">
 <div align="center">   
 <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/pt/3/30/Java_programming_language_logo.svg" alt="Java" height="50" /></a>
 <a href="https://www.oracle.com/in/index.html" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://www.svgrepo.com/show/355152/oracle.svg" alt="Oracle" height="50" /></a>  
@@ -105,10 +105,10 @@
 <a href="https://www.raspberrypi.org/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/raspberrypi/000/fff" alt="Raspberry Pi" height="50" /></a>  
 <a href="https://www.arduino.cc/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Arduino.svg" alt="Arduino" height="50" /></a> 
 </div>
-
-</td><td valign="top" width="33%">
+</td></tr></table>
 
 ### Devtools
+<table><tr><td valign="top" width="100%">
 <div align="center">  
 <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/docker/000/fff" alt="Docker" height="50" /></a>  
 <a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://raw.githubusercontent.com/ClaudioMendonca-Eng/ClaudioMendonca-Eng/refs/heads/main/icones/Kubernetes.svg" alt="Kubernetes" height="50" /></a>  
@@ -141,7 +141,6 @@
 <a href="https://openai.com/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/openai/000/fff" alt="Openai" height="50" /></a>
 <a href="https://gemini.google.com/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://raw.githubusercontent.com/ClaudioMendonca-Eng/ClaudioMendonca-Eng/refs/heads/main/icones/gemini.svg" alt="Google Gemini" height="50" /></a>
 </div>
-
 </td></tr></table>   
 
 <br/>
