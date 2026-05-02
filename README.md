@@ -1,5 +1,5 @@
 <a href="https://claudiomendonca.eng.br"><img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1451da&height=120&section=header"/></a>
-<a href="https://claudiomendonca.eng.br"><img align="right" alt="Developer vector created by storyset - www.freepik.com" height="330" src="https://raw.githubusercontent.com/ClaudioMendonca-Eng/Site-claudiomendonca.eng.br/main/assets/images/bagreadme01.png"></a>
+<a href="https://claudiomendonca.eng.br"><img align="right" alt="Developer vector created by storyset - www.freepik.com" height="330" src="https://raw.githubusercontent.com/ClaudioMendonca-Eng/Site-claudiomendonca.eng.br/main/assets/images/developer-vector.png"/></a>
 
 <h1>
     <span>I'm Claudio Mendonça</span>
@@ -170,8 +170,8 @@
 ## Github Stats
 | ![svg](https://raw.githubusercontent.com/ClaudioMendonca-Eng/ClaudioMendonca-Eng/refs/heads/main/profile-3d-contrib/profile-night-rainbow.svg) |
 |:---:|
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ClaudioMendonca-Eng&theme=discord_old_blurple) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ClaudioMendonca-Eng&theme=discord_old_blurple&utcOffset=8) ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ClaudioMendonca-Eng&theme=discord_old_blurple) ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ClaudioMendonca-Eng&theme=discord_old_blurple) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ClaudioMendonca-Eng&theme=discord_old_blurple) |
-| <img src="https://komarev.com/ghpvc/?username=ClaudioMendonca-Eng&&style=flat-square" align="center" /> <a href="https://www.paypal.com/donate/?business=YYQV3JNX2PCFS&no_recurring=0&item_name=Obrigado+pelo+cafezinho%21%21+%2F+Thanks+for+the+coffee%21%21&currency_code=USD" target="_blank" style="display: inline-block;"> <img src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square&logo=paypal" align="center"/></a> <a href="https://www.buymeacoffee.com/claudiomendonca" target="_blank" style="display: inline-block;"> <img src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" align="center"/></a>|
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ClaudioMendonca-Eng&theme=discord_old_blurple) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ClaudioMendonca-Eng&theme=discord_old_blurple&utcOffset=8) |
+| <img src="https://komarev.com/ghpvc/?username=ClaudioMendonca-Eng&&style=flat-square" align="center" /> <a href="https://www.paypal.com/donate/?business=YYQV3JNX2PCFS&no_recurring=0&item_name=Obrigado+por+me+ajudar+a+manter+o+conteúdo+gratuito%21&currency_code=BRL"><img src="https://img.shields.io/badge/PayPal-Donate-blue.svg?style=flat-square&logo=paypal" align="center" /></a> |
 
 <!--
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
