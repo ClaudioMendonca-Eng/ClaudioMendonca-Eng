@@ -10,7 +10,11 @@
   
 - 🔭 Currently working at [Lumini IT Solutions](https://luminiitsolutions.com/)   
 
-- 🌱 Studying to become an AWS Certified Developer – Associate  
+- 🌱 Studying to become proficient in:
+    - C# Developer and the .NET ecosystem/platform
+    - AI for Tech and AI for Business (Always evolving, every single day)
+    - Spec‑Driven Development (SDD) applied to AI
+    - Software Development Security (SSDLC)
 
 - 💬 Feel free to ask me about productivity and organization in the world of information    
 
